@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <title>Google Project</title>
+  <body>
+    <center>
+      <img src="https://www.google.com/logos/1998/googlebeta.jpg" width: 200px>
+    <br>
+    <p>Search the web using Google</p>
+    <input>
+    <br>
+    <button>Google search</button>
+    <button>I'm Feeling Lucky</button>
+    <br>
+    <p><a href="http://google.com" target="_blank"> More Google!</a></p>
+    <p><em>Copyright @1999 Google inc.</em></p>
+  </body>
+</html>
